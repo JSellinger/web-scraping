@@ -2,6 +2,5 @@ spacy
 requests
 bs4
 matplotlib
-JSON
 ipynb
 ipykernel
